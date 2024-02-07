@@ -1,0 +1,4 @@
+@font-face{font-family:Inter;font-style:normal;font-weight:400;src:url(dcba3388310e6ae77440.woff2) format("woff2")}@font-face{font-family:Inter;font-style:normal;font-weight:500;src:url(e481ef8133a3c71636e5.woff2) format("woff2")}@font-face{font-family:Inter;font-style:normal;font-weight:900;src:url(8d07d4e4ea9833df9373.woff2) format("woff2")}
+.page__content{align-items:center;border:3px dotted blue;display:flex;flex-direction:column;gap:30px;padding:100px}img{height:200px;width:200px}p{color:green}
+.page{background-color:#000;color:#faebd7;margin:150px}
+

@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("monday",{today:2,tomorrow:-2}),console.log(12,2,2,3,23,12,41,24,123,4,234),console.log("Hello, World!");var o=[2,3,5].map((function(o){return 2*o}));console.log(o)})();
