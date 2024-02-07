@@ -1,0 +1,7 @@
+@import url("./__content/page__content.css");
+
+.page {
+  margin: 150px;
+  color: antiquewhite;
+  background-color: black;
+}
